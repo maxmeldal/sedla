@@ -1,0 +1,5 @@
+body { font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; max-width: 40rem; margin: 3rem auto; padding: 0 1.25rem; color: #1d1b18; background: #faf8f3; }
+h1 { font-size: 2rem; margin-bottom: .25rem; }
+h2 { font-size: 1.2rem; margin-top: 2rem; }
+a { color: #1d1b18; }
+.muted { color: #6b665d; }
